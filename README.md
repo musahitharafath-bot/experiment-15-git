@@ -1,1 +1,1 @@
-# Experiment 15 - Git Branching and Merging
+# Experiment 15 - Git Branching
